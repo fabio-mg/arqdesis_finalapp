@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Curso</string>
+    <string name="label_curso_nome">Nome:</string>
+    <string name="label_curso_detalhe">Detalhe:</string>
+</resources>
